@@ -11,14 +11,11 @@ Primary objective of this project is to develop a dashboard showcasing the evolu
 - In the second dashboard, we dive into comprehensive price trends spanning across the years, uncovering valuable insights into the evolution of pricing dynamics over time.
 
 ## Objective:
-The objective of the project is stated from Maven Analytics.
+- The objective of the project is stated from Maven Analytics.
 
 "Piece together an interactive dashboard or visual that lets users explore the history and evolution of Lego sets from the past 5 decades."
 
-For more information on Maven's Lego Challenge follow the link [here](https://mavenanalytics.io/challenges/maven-lego-challenge/29). 
-
-## Description:
-In this Project I want to showcase Lego's evolution from 1970-2022. There are 2 dashboards that will demonstrate Lego's success throughout the years. The dashboards will be interactive and dynamic for users to fully access the history of Lego sets. The first dashboard demonstrates descriptive analysis of the dataset provided by Maven Analytics that demonstrates various findings. The second dashboard discovers the price trends throughout the years.
+- For more information on Maven's Lego Challenge follow the link [here](https://mavenanalytics.io/challenges/maven-lego-challenge/29). 
 
 ## About the Data
 
