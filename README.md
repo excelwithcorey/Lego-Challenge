@@ -1,15 +1,17 @@
 <p align="center">
-  <img width="900" height="500" src="https://github.com/excelwithcorey/Lego-Challenge/assets/153139454/2b7e7aca-6cd3-41e6-b2ea-a77763337edd">
+  <img width="860" height="500" src="https://github.com/excelwithcorey/Lego-Challenge/assets/153139454/2b7e7aca-6cd3-41e6-b2ea-a77763337edd">
 </p>
 
 # Lego Challenge by Maven Analytics
 [Corey's Entry](https://mavenanalytics.io/project/12340) 
 
 ## About this project
-Lego Data Analysis
+Primary objective of this project is to develop a dashboard showcasing the evolution of LEGO over the past five decades. Tailored with user-friendliness and LEGO enthusiasts in mind, the aim is to craft an engaging dashboard that facilitates seamless navigation, empowering users to gain comprehensive insights effortlessly. There are 2 dashboards that will demonstrate Lego's success throughout the years. The dashboards will be interactive and dynamic for users to fully access the history of Lego sets. 
+- The first dashboard provides a detailed analysis of Legos over 5 decades, revealing significant insightful findings for business.
+- In the second dashboard, we dive into comprehensive price trends spanning across the years, uncovering valuable insights into the evolution of pricing dynamics over time.
 
 ## Objective:
-The objective of the project is stated from MAVEN and the team.
+The objective of the project is stated from Maven Analytics.
 
 "Piece together an interactive dashboard or visual that lets users explore the history and evolution of Lego sets from the past 5 decades."
 
